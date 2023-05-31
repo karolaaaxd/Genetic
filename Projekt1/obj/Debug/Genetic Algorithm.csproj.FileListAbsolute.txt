@@ -1,0 +1,38 @@
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe.config
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.AssemblyReference.cache
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.cache
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.exe
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.pdb
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.dll
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Genetic.dll
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Math.dll
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\Flee.dll
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.xml
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Genetic.xml
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Math.xml
+C:\Users\JL\source\repos\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.CopyComplete
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Genetic.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Math.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Flee.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.xml
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Genetic.xml
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Math.xml
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.AssemblyReference.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.CopyComplete
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.Form1.resources
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.Properties.Resources.resources
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Projekt1.exe.config
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Projekt1.exe
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Projekt1.pdb
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.exe
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.pdb

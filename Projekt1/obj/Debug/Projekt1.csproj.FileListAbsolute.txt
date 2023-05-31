@@ -1,0 +1,92 @@
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.csproj.AssemblyReference.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.csproj.SuggestedBindingRedirects.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.exe
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.pdb
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Projekt1.exe.config
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Projekt1.exe
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Projekt1.pdb
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Genetic.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Math.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\Flee.dll
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.xml
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Genetic.xml
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\bin\Debug\AForge.Math.xml
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.Properties.Resources.resources
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.csproj.GenerateResource.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.csproj.CopyComplete
+C:\Users\djprz\Desktop\Genetic Algorithm\Genetic Algorithm\obj\Debug\Projekt1.Form1.resources
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.Form1.resources
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.Properties.Resources.resources
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.GenerateResource.cache
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.exe
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.pdb
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\Projekt1.exe.config
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\Projekt1.exe
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\Projekt1.pdb
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\AForge.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\AForge.Genetic.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\AForge.Math.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\Flee.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\AForge.xml
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\AForge.Genetic.xml
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\AForge.Math.xml
+C:\Users\karol\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CopyComplete
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.Form1.resources
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.Properties.Resources.resources
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.GenerateResource.cache
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.exe
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.pdb
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\Projekt1.exe.config
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\Projekt1.exe
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\Projekt1.pdb
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\AForge.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Genetic.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Math.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\Flee.dll
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\AForge.xml
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Genetic.xml
+C:\Users\karol\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Math.xml
+C:\Users\karol\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CopyComplete
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\Projekt1.exe.config
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\Projekt1.exe
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\Projekt1.pdb
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\AForge.dll
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Genetic.dll
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Math.dll
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\Flee.dll
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\AForge.xml
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Genetic.xml
+C:\Users\djprz\Desktop\Projekt1\Projekt1\bin\Debug\AForge.Math.xml
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.AssemblyReference.cache
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.SuggestedBindingRedirects.cache
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.Form1.resources
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.Properties.Resources.resources
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.GenerateResource.cache
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CopyComplete
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.exe
+C:\Users\djprz\Desktop\Projekt1\Projekt1\obj\Debug\Projekt1.pdb
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\Projekt1.exe.config
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\Projekt1.exe
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\Projekt1.pdb
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\AForge.dll
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\AForge.Genetic.dll
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\AForge.Math.dll
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\Flee.dll
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\AForge.xml
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\AForge.Genetic.xml
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\bin\Debug\AForge.Math.xml
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.Form1.resources
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.Properties.Resources.resources
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.GenerateResource.cache
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.csproj.CopyComplete
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.exe
+C:\Users\karol\Desktop\kolara\Projekt1\Projekt1\obj\Debug\Projekt1.pdb
